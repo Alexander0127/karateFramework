@@ -1,0 +1,9 @@
+query {
+        character (id:<numID>)
+        {
+          name,
+          status,
+          species,
+          gender
+        }
+      }
